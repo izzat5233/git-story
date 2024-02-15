@@ -3,4 +3,3 @@ Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of Version Control.
 Git was eager to explore it.
 So he did.
-Git was eager to explore new places.
